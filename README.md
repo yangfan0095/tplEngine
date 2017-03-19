@@ -3,22 +3,22 @@
 ### 安装 npm install fstpl
 
 
-example ： 
-var data = {
-name:'xiaoming',
-age:24,
-profession:'font-end developer'
-}
+*example ： 
+*var data = {
+*name:'xiaoming',
+*age:24,
+(profession:'font-end developer'
+*}
 
-<span>name:{{data.name}}</span>
-<span>age:{{data.age}}</span>
-<span>profession:{{data.profession}}</span>
+*<span>name:{{data.name}}</span>
+*<span>age:{{data.age}}</span>
+*<span>profession:{{data.profession}}</span>
 
-output:
+*output:
 
-name:xiaoming
-age:24
-profession:font-end developer
+*name:xiaoming
+*age:24
+*profession:font-end developer
 
 
 
