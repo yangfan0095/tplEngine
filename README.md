@@ -1,6 +1,6 @@
 
-# a Js template engine 
-# npm install fstpl
+### a Js template engine 
+ npm install fstpl
 
 ``` example ： 
  var data = {
@@ -23,5 +23,5 @@ output:
 
 
 
-# 项目参考文档 ：http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line
+### 项目参考文档 ：http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line
 
